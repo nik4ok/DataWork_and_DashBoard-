@@ -38,4 +38,4 @@ area, cluster, cluster_name, keyword, x, y, count, color, где
 Желательные требования к визуализации:
     - Перенос слишком длинных словосочетаний (например, слова длиннее 15 символов, можно разбить на "solar\n cell").
     - Обводка точек.
-
+![Image alt](https://github.com/nik4ok/PandasWork_and_InteractiveDashBoard-python-/blob/main/example.png)
